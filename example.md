@@ -33,4 +33,3 @@ createAudioFileAsync(audioSettings, successCallback, failureCallback);
 // Promise style
 createAudioFileAsync(audioSettings).then(successCallback, failureCallback);
 ```
-
