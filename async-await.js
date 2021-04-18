@@ -8,7 +8,7 @@ hello().then((res) => {
 
 function clo() {
     return function() {
-        console.log(arguments[0] + arguments[1]);
+        console.log(arguments[0] , arguments[1]);
     }
 }
 
